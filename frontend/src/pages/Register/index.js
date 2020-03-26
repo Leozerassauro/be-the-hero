@@ -44,7 +44,7 @@ export default function Register() {
           <img src={logoImg} alt="Be The Hero" />
 
           <h1>Cadastro</h1>
-          <p>Faca seu cadastro, entre na plataforma e ajude pessoas a enconstrarem os casos da sua ONG.</p>
+          <p>Faca seu cadastro, entre na plataforma e ajude pessoas a encontrarem os casos da sua ONG.</p>
 
           <Link className="back-link" to="/">
             <FiArrowLeft size={16} color="#E02041" />
